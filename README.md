@@ -13,7 +13,8 @@ This project focuses on designing and implementing a secure enterprise network a
 _To be designed_
 
 ## 4. Technology Stack
-_To be defined_
+- WSL2 (Ubuntu)
+- Git & GitHub
 
 ## 5. Security Design Principles
 _To be documented_
